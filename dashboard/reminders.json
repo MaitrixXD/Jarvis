@@ -1,0 +1,144 @@
+[
+  {
+    "id": 101,
+    "text": "Team standup meeting",
+    "due": "Today",
+    "time": "09:00 AM - 09:30 AM",
+    "category": "Work",
+    "icon": "\ud83d\udcbb",
+    "priority": "high",
+    "done": true,
+    "created_at": "2026-10-25T08:30:00"
+  },
+  {
+    "id": 102,
+    "text": "Dentist appointment",
+    "due": "Today",
+    "time": "11:30 AM - 12:00 PM",
+    "category": "Personal",
+    "icon": "\ud83e\uddb7",
+    "priority": "medium",
+    "done": true,
+    "created_at": "2026-10-25T08:30:00",
+    "evaluation": {
+      "evaluated_at": "2026-10-25T14:24:53.917586",
+      "assessment": "Based on the provided WhatsApp context, it appears that Maitrayee has not completed the \"Dentist appointment\" task as there is no mention of the dentist or any related conversation. The conversation revolves around WhatsApp restrictions and alternative apps for Growsphere community. Therefore, I would assess this task as \"pending\".",
+      "status": "completed"
+    }
+  },
+  {
+    "id": 103,
+    "text": "Gym session",
+    "due": "Today",
+    "time": "02:00 PM - 03:00 PM",
+    "category": "Health",
+    "icon": "\ud83c\udfcb\ufe0f",
+    "priority": "medium",
+    "done": true,
+    "created_at": "2026-10-25T08:30:00"
+  },
+  {
+    "id": 104,
+    "text": "Work on Med Trace project report",
+    "due": "Today",
+    "time": "04:00 PM - 05:00 PM",
+    "category": "Work",
+    "icon": "\ud83d\udcc4",
+    "priority": "high",
+    "done": true,
+    "created_at": "2026-10-25T08:30:00"
+  },
+  {
+    "id": 105,
+    "text": "Read ML research paper",
+    "due": "Today",
+    "time": "08:00 PM - 08:30 PM",
+    "category": "Study",
+    "icon": "\ud83d\udcd6",
+    "priority": "low",
+    "done": true,
+    "created_at": "2026-10-25T08:30:00"
+  },
+  {
+    "id": 106,
+    "text": "Book flight tickets",
+    "due": "Tomorrow",
+    "time": "Tomorrow, 10:00 AM",
+    "category": "Travel",
+    "icon": "\u2708\ufe0f",
+    "priority": "medium",
+    "done": false,
+    "created_at": "2026-10-25T08:30:00"
+  },
+  {
+    "id": 107,
+    "text": "Push notes to Google Drive",
+    "due": "Tomorrow",
+    "time": "Tomorrow, 11:00 AM",
+    "category": "Work",
+    "icon": "\u2601\ufe0f",
+    "priority": "low",
+    "done": false,
+    "created_at": "2026-10-25T08:30:00"
+  },
+  {
+    "id": 108,
+    "text": "Call Baba",
+    "due": "Tomorrow",
+    "time": "Tomorrow, 06:00 PM",
+    "category": "Personal",
+    "icon": "\ud83d\udcde",
+    "priority": "medium",
+    "done": false,
+    "created_at": "2026-10-25T08:30:00"
+  },
+  {
+    "id": 109,
+    "text": "Update Notion project board",
+    "due": "Yesterday",
+    "time": "Yesterday, 05:00 PM",
+    "category": "Work",
+    "icon": "\ud83d\udccb",
+    "priority": "medium",
+    "done": true,
+    "created_at": "2026-10-24T08:30:00"
+  },
+  {
+    "id": 110,
+    "text": "Review pull request #42",
+    "due": "Yesterday",
+    "time": "Yesterday, 02:00 PM",
+    "category": "Work",
+    "icon": "\ud83d\udcbb",
+    "priority": "high",
+    "done": true,
+    "created_at": "2026-10-24T08:30:00"
+  },
+  {
+    "id": 1792910860266,
+    "text": "med trace linkdin post",
+    "due": "Today",
+    "time": "Today",
+    "category": "Work",
+    "icon": "\ud83d\udcbb",
+    "priority": "medium",
+    "done": true,
+    "created_at": "2026-10-25T12:17:40.266937",
+    "evaluation": null
+  },
+  {
+    "id": 1792912058374,
+    "text": "AI Lab Assignment Submission",
+    "due": "Tomorrow",
+    "date": "2026-10-26",
+    "time": "Tomorrow, 11:00 AM",
+    "category": "Study",
+    "icon": "\ud83d\udcd6",
+    "priority": "medium",
+    "done": false,
+    "created_at": "2026-10-25T12:37:38.374550",
+    "sync_gcalendar": true,
+    "gcal_link": "https://www.google.com/calendar/event?eid=am52czVlNG0ycHM0YmJnMHZtMXZsYjhqZWMgbWFpdHJheWVlLmRpZ2hlMjAwN0Bt",
+    "evaluation": null
+  }
+]

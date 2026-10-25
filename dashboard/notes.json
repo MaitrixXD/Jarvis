@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1792932590609,
+    "title": "hiiiii",
+    "content": "hiiiii",
+    "category": "Quick Note",
+    "icon": "\u26a1",
+    "pinned": false,
+    "created_at": "2026-10-25T18:19:50.609127"
+  },
+  {
+    "id": 1792932533907,
+    "title": "Test connection note",
+    "content": "Test connection note",
+    "category": "Quick Note",
+    "icon": "\u26a1",
+    "pinned": false,
+    "created_at": "2026-10-25T18:18:53.911991"
+  },
+  {
+    "id": 101,
+    "title": "CS concepts to revise \ud83d\udccc",
+    "content": "\u2022 Operating Systems: Deadlocks, semaphores, paging & virtual memory\n\u2022 DBMS: Normalization (3NF/BCNF), indexing & transactions (ACID)\n\u2022 Computer Networks: TCP 3-way handshake, OSI layers & DNS resolution",
+    "category": "Study",
+    "icon": "\ud83d\udccc",
+    "pinned": true,
+    "created_at": "2026-10-25T12:34:00"
+  },
+  {
+    "id": 102,
+    "title": "Internship tasks",
+    "content": "1. Complete frontend telemetry sync on dashboard\n2. Integrate real-time audio streaming for YouTube Music\n3. Review pull request for authentication middleware",
+    "category": "Work",
+    "icon": "\ud83d\udcbc",
+    "pinned": false,
+    "created_at": "2026-10-25T11:20:00"
+  },
+  {
+    "id": 103,
+    "title": "MBA case study - key points",
+    "content": "Analysis of Apple supply chain resilience:\n- Dual-sourcing strategy for critical silicon components\n- Just-In-Time inventory management with automated vendor hubs\n- Expansion into secondary manufacturing hubs across India & Vietnam",
+    "category": "Study",
+    "icon": "\ud83d\udcca",
+    "pinned": false,
+    "created_at": "2026-10-24T18:45:00"
+  },
+  {
+    "id": 104,
+    "title": "Workout plan",
+    "content": "Weekly routine:\n\u2022 Mon/Thu: Upper body strength & core (bench press, pull-ups, overhead press)\n\u2022 Tue/Fri: Lower body & cardio (squats, deadlifts, 5k run)\n\u2022 Wed/Sat: Active recovery & mobility yoga",
+    "category": "Personal",
+    "icon": "\ud83c\udfc3",
+    "pinned": false,
+    "created_at": "2026-10-23T08:00:00"
+  },
+  {
+    "id": 1,
+    "title": "Med Trace Architecture",
+    "content": "Blockchain-powered medicine traceability:\n\u2022 Smart contracts on Ethereum / Polygon for batch verification\n\u2022 QR code generation for tamper-proof packaging\n\u2022 Distributor verification & temperature-controlled logistics tracking",
+    "category": "Work",
+    "icon": "\ud83d\udc8a",
+    "pinned": true,
+    "created_at": "2026-10-25T09:15:00"
+  },
+  {
+    "id": 2,
+    "title": "Jarvis AI Core Architecture",
+    "content": "Iron Man executive command center:\n\u2022 Kokoro-82M TTS & faster-whisper STT for hands-free voice agent\n\u2022 Local Ollama llama3 / qwen3.5:4b engine\n\u2022 WhatsApp Baileys stdio bridge integration\n\u2022 Google Drive OAuth sync & macOS local file system search",
+    "category": "Design",
+    "icon": "\ud83e\udd16",
+    "pinned": true,
+    "created_at": "2026-10-25T09:30:00"
+  },
+  {
+    "id": 3,
+    "title": "Study Plan",
+    "content": "DSA: Trees, Graphs, DP\nML: Linear Regression, Neural Networks\nNext week: Revise Python async patterns and LangChain agent architecture",
+    "category": "Study",
+    "icon": "\ud83d\udca1",
+    "pinned": false,
+    "created_at": "2026-10-24T19:42:00"
+  },
+  {
+    "id": 4,
+    "title": "Project Ideas",
+    "content": "\u2022 Build a smart reminder system with AI completion evaluation\n\u2022 AI study planner with calendar sync\n\u2022 Personal finance tracker with receipt OCR",
+    "category": "Work",
+    "icon": "\ud83d\udccc",
+    "pinned": false,
+    "created_at": "2026-10-24T14:15:00"
+  },
+  {
+    "id": 6,
+    "title": "Meeting Notes",
+    "content": "Discussed UI changes for Jarvis:\n- Add Iron Man executive dark mode\n- Improve voice recognition & hands-free hotword\n- Add real Google Doc & macOS file search",
+    "category": "Work",
+    "icon": "\ud83d\udcdd",
+    "pinned": false,
+    "created_at": "2026-10-22T16:00:00"
+  }
+]

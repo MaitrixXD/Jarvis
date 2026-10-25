@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.whl
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+OpenJarvis/.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# Logs
+*.log
+server.log
+*.log.*
+
+# Large model / cache files
+*.bin
+*.safetensors
+*.gguf
+*.pt
+*.pth
+*.onnx
+*.pkl
+*.npz
+*.npy
+__pycache__/
+.cache/
+.openjarvis/
+models/
+checkpoints/
+
+# Sensitive / personal data
+*.json.bak
+whatsapp_messages.json
+call_logs.json
+calories.json
+
+# Node
+node_modules/
+.npm/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+secrets/
